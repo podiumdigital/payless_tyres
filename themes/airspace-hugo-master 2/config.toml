@@ -1,6 +1,6 @@
 ################################# Basic configuration #########################
 # Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-baseURL = "http://examplesite.org"
+baseURL = "https://payless-tyres.netlify.app/"
 title = "Airspace | Creative Agency Hugo Template"
 theme = "airspace-hugo"
 # Number of posts per page in list view
@@ -62,9 +62,9 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 phone = "0124857985320"
 email = "demo@email.com"
 location = """
-**Themefisher**  
-North Main Street  
-Brooklyn, New South Wales  
+**Themefisher**
+North Main Street
+Brooklyn, New South Wales
 Australia
 """
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
@@ -75,7 +75,7 @@ enable = true
 use_netlify = true
 # Form action
 ## Fill in your Form ID URL for Formspree.io, e.g. `https://formspree.io/f/{form_id}`
-## Ignored if `use_netlify = true` (custom [success page](https://docs.netlify.com/forms/setup/#success-messages) is already included) 
+## Ignored if `use_netlify = true` (custom [success page](https://docs.netlify.com/forms/setup/#success-messages) is already included)
 action = "#"
 # Image on custom success page `/message_sent.html`
 success_image = "images/paper-plane.svg"
